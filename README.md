@@ -3,9 +3,19 @@
 - Erika Sejje Condori
 
 # KDTree
+El kd-tree o árbol k-dimensional es un árbol de búsqueda binario que representa una subdivisión recursiva del universo d-dimensional en subespacios lineales disjuntos por medio de hiperplanos.
 <div>
   <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/KDTree.gif" alt="demo" height="605">
   <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/KDTreeGrafo.png" alt="demo" height="605">
+</div>
+Implementacion
+https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/KDTree.ipynb
+
+# KNN
+El algoritmo K-Nearest Neighbor (KNN) es una técnica popular de aprendizaje supervisado que se utiliza tanto para la regresión como para la clasificación.
+como referencia. 
+<div>
+  <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/KNNAlg.png" alt="demo" height="605">
 </div>
 
 # Dataset Iris
