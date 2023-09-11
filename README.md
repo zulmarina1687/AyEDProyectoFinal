@@ -1,5 +1,4 @@
 # Proyecto Final - KDTree - KNN
-# Integrantes
 - Luz Marina Pilco Pancca
 - Erika Sejje Condori
 
