@@ -10,8 +10,8 @@ Crear un modelo que pueda clasificar las diferentes especies de la flor Iris
 - Dimensionality: 4
 - Features: real, positive
 <div>
-  <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/DS1.png" alt="demo" height="605">
-  <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/DS2.png" alt="demo" height="605">
+  <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/DS1.png" alt="demo" height="405">
+  <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/DS2.png" alt="demo" height="405">
 </div>
 
 # Implementación
