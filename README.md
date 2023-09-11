@@ -1,14 +1,13 @@
 # Proyecto Final - KDTree - KNN
+# Integrantes
+- Luz Marina Pilco Pancca
+- Erika Sejje Condori
+
 # KDTree
 <div>
   <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/KDTree.gif" alt="demo" height="605">
   <img src="https://github.com/zulmarina1687/AyEDProyectoFinal/blob/main/KDTreeGrafo.png" alt="demo" height="605">
 </div>
-
-
-# Integrantes
-- Luz Marina Pilco Pancca
-- Erika Sejje Condori
 
 # Dataset Iris
 - Disponible en: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#examples-using-sklearn-datasets-load-iris
